@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/ExplosiveLLC/RPG Character Mecanim Animation Pack/Scenes/RPG-Character.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
