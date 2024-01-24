@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/ExplosiveLLC/RPG Character Mecanim Animation Pack/Scenes/RPG-Character.unity
+- path: Assets/Scenes/Adaptive AI.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

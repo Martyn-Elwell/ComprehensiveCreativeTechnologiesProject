@@ -117,6 +117,7 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_INPUT_SYSTEM
+-define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
@@ -476,6 +477,10 @@
 "Assets/ExplosiveLLC/SuperCharacterController/Code/Examples/PlayerMachineDebug.cs"
 "Assets/ExplosiveLLC/SuperCharacterController/Code/Examples/SimpleStateMachine.cs"
 "Assets/ExplosiveLLC/SuperCharacterController/Code/Math3d.cs"
+"Assets/Screenshot.cs"
+"Assets/Scripts/Actions.cs"
+"Assets/Scripts/AIController.cs"
+"Assets/Scripts/PlayerController.cs"
 -langversion:9.0
 
 /deterministic
